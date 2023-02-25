@@ -1,4 +1,4 @@
-region = "eu-west-2"
+region = "us-east-1"
 
 vpc-cidr-block = "10.0.0.0/16"
 
